@@ -100,9 +100,9 @@ table {
     }
  .section-1-part-1 img{ 
 
-    width: 31%;
-    position: absolute;
-    margin-top: 55px;
+    width: 100%;
+    margin-top: 60px;
+    margin-bottom: -200px;
  } 
 .section-1
 {
